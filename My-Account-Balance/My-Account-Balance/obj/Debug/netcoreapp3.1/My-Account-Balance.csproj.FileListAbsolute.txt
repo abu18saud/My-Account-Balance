@@ -1,0 +1,13 @@
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\My-Account-Balance\My-Account-Balance\My-Account-Balance\bin\Debug\netcoreapp3.1\My-Account-Balance.exe
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\My-Account-Balance\My-Account-Balance\My-Account-Balance\bin\Debug\netcoreapp3.1\My-Account-Balance.deps.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\My-Account-Balance\My-Account-Balance\My-Account-Balance\bin\Debug\netcoreapp3.1\My-Account-Balance.runtimeconfig.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\My-Account-Balance\My-Account-Balance\My-Account-Balance\bin\Debug\netcoreapp3.1\My-Account-Balance.runtimeconfig.dev.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\My-Account-Balance\My-Account-Balance\My-Account-Balance\bin\Debug\netcoreapp3.1\My-Account-Balance.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\My-Account-Balance\My-Account-Balance\My-Account-Balance\bin\Debug\netcoreapp3.1\My-Account-Balance.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\My-Account-Balance\My-Account-Balance\My-Account-Balance\obj\Debug\netcoreapp3.1\My-Account-Balance.csprojAssemblyReference.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\My-Account-Balance\My-Account-Balance\My-Account-Balance\obj\Debug\netcoreapp3.1\My-Account-Balance.AssemblyInfoInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\My-Account-Balance\My-Account-Balance\My-Account-Balance\obj\Debug\netcoreapp3.1\My-Account-Balance.AssemblyInfo.cs
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\My-Account-Balance\My-Account-Balance\My-Account-Balance\obj\Debug\netcoreapp3.1\My-Account-Balance.csproj.CoreCompileInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\My-Account-Balance\My-Account-Balance\My-Account-Balance\obj\Debug\netcoreapp3.1\My-Account-Balance.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\My-Account-Balance\My-Account-Balance\My-Account-Balance\obj\Debug\netcoreapp3.1\My-Account-Balance.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\My-Account-Balance\My-Account-Balance\My-Account-Balance\obj\Debug\netcoreapp3.1\My-Account-Balance.genruntimeconfig.cache
